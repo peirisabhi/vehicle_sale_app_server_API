@@ -60,7 +60,7 @@ public class Mail {
     
     
     public static void main(String[] args) {
-        sendMail("abhishekpeiris9@gmail.com", "test", "test");
+        sendMail("aasas9@gmail.com", "test", "test");
     }
     
 }
